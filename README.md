@@ -14,7 +14,7 @@ Soy desarrollador fullstack especializado en desarrollo web y estudiando anális
   ### 🌐 Conecta conmigo:
 - [LinkedIn](https://www.linkedin.com/in/tu-usuario/)
 - [Gmail](cerniktomy@gmail.com)
-- [Teléfono](9 11 6190-7642)
+- [Teléfono](9116190-7642)
   
   
   
