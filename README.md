@@ -22,7 +22,7 @@ Actualmente me encuentro en búsqueda de ampliar mi experiencia laboral en el á
 - [E-Commerce de apuntes estudiantiles](https://github.com/Gaby137/TallerWeb1.git): Un E-Commerce completo para la compra y venta de apuntes estudiantiles manejando una moneda virtual. Proyecto Grupal
 
 ### 🌐 Conecta conmigo:
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario/)
+- [LinkedIn](www.linkedin.com/in/tomas-cernik-51371b250)
 - [Gmail](cerniktomy@gmail.com)
 - [Teléfono](9116190-7642)
   
