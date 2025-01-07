@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Tomás Cernik
-Soy desarrollador web fullstack y estudiando análisis de datos. 🚀
+Soy desarrollador web fullstack y también me encuentro estudiando análisis de datos. 🚀
 Actualmente me encuentro en búsqueda de ampliar mi experiencia laboral en el ámbito del desarrollo web.
 
 ### 💼 Áreas de Especialización:
