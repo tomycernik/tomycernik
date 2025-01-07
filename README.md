@@ -6,6 +6,15 @@ Actualmente me encuentro en búsqueda de ampliar mi experiencia laboral en el á
 - Desarrollo web con PHP, C#, ASP.NET, y Java, HTML, CSS, JavaScript.
 - Gestión de bases de datos con SQL Server.
 
+### 🛠️ Tecnologías:
+-PHP
+-Java (Spring)
+-C#
+-HTML
+-CSS
+-JavaScript
+-Implementación de APIs
+
 ### 🚀 Proyectos Destacados:
 - [CRM de Gestión de Pedidos](https://github.com/tomycernik/EssenzaCRM.git): Un CRM completo para gestión de clientes y pedidos. Proyecto Individual
 - [API para Clasificación de Correos](https://github.com/Ignacio26fr/Tasky_webProyecto.git): Solución de IA para clasificar emails según urgencia. Proyecto Grupal
